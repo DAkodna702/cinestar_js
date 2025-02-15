@@ -1,7 +1,7 @@
 <?php
 
   include('db.php');
-  BaseDatos('localhost','root','','cinestar');
+  BaseDatos('localhost','root','','cinestar',3307);
   //seDatos('srv1467.hstgr.io','u719737586_cinestar','Senati2024@','u719737586_cinestar');
 
   $parametros = $_SERVER['REQUEST_URI'];

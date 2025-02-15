@@ -14,7 +14,7 @@ const getcines = async () => {
                         Teléfono${cine.telefonos}</span>
                 	</div>
                 	<br/>
-                	<a href="cines.html?id=${cine.id}">
+                	<a href="cine.html?id=${cine.id}">
                 		<img src="img/varios/ico-info2.png" width="150" height="40"/>
                 	</a>
 				</div>

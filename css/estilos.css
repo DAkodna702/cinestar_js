@@ -382,7 +382,7 @@ ul.menu-principal li a:hover {
 
 .cine-info img {
     float : right;
-    margin: -265px 5px 0 0;
+    margin: -265px -250px 0 0;
 }
 
 .cine-info .peliculas {
@@ -404,6 +404,6 @@ ul.menu-principal li a:hover {
     margin-right: -4px;
 }
 
-.celda-cabecera .pelicula {
-    
+#cine-cinefot{
+    border-color: #DC1F26;
 }
